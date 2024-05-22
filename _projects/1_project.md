@@ -2,9 +2,9 @@
 layout: page
 title: Rizik0
 description: with background image
-img: assets/img/rizik0.jpg
+img: assets/img/rizik0.png
 importance: 1
-category: work
+category: 
 related_publications: true
 ---
 
