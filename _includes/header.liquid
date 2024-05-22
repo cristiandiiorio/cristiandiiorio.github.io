@@ -55,8 +55,11 @@
               {% endif %}
             </a>
           </li>
-
           <!-- Other pages -->
+          <div class="nav-item">
+            <a href="assets/pdf/example_pdf.pdf" class="nav-link">cv</a>
+          </div>
+
           {% assign sorted_pages = site.pages | sort: 'nav_order' %}
           {% for p in sorted_pages %}
             {% if p.nav and p.autogen == null %}
