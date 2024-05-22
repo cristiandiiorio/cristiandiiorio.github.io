@@ -1,10 +1,10 @@
 ---
 layout: page
 title: SO project
-description: another without an image
-img:
-importance: 3
-category:
+description: 
+img: assets/img/3.jpg
+importance: 4
+category: uni
 ---
 
 Every project has a beautiful feature showcase page.
