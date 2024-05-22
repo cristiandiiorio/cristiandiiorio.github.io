@@ -4,7 +4,7 @@ title: SO project
 description: 
 img: assets/img/3.jpg
 importance: 4
-category: uni
+category: work
 ---
 
 Every project has a beautiful feature showcase page.

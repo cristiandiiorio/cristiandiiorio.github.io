@@ -4,7 +4,7 @@ title: Rizik0
 description: with background image
 img: assets/img/rizik0.png
 importance: 1
-category: uni
+category: work
 related_publications: true
 ---
 
