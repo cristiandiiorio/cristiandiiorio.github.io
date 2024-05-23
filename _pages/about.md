@@ -16,4 +16,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, I am a bachelor Computer Engineering student at La Sapienza in Rome, Italy.
+Hi, I am an undergraduate Computer Engineering student at La Sapienza in Rome, Italy.
+I am deeply interested in computer security, containers and DevOps.
+
+This semester I'm studying Computer Security, Electronics, Complements of Operating Systems, Web Development and Software Architectures.
+
+In my free time I enjoy playing padel and watching football.
+
