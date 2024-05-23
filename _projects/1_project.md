@@ -10,6 +10,8 @@ category: uni
 Game inspired by Risk.
 Written in React, Python Flask and SQLite.
 
+You can see it for yourself here: [rizik0](https://www.rizik0.ovh)
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
