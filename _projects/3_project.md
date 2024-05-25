@@ -2,7 +2,7 @@
 layout: page
 title: PHP SQLi
 description: SQL injection testing in a PHP webpage
-img: assets/img/7.jpg
+img: assets/img/injection.jpg
 importance: 3
 category: uni
 ---
