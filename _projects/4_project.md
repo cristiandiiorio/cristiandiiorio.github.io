@@ -2,7 +2,7 @@
 layout: page
 title: Arduino Power Meter
 description: 
-img: assets/img/3.jpg
+img: assets/img/sensor.jpeg
 importance: 4
 category: uni
 ---
