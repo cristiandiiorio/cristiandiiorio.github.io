@@ -4,7 +4,7 @@ title: Rizik0
 description: Risk-like game
 img: assets/img/rizik0.png
 importance: 1
-category: uni
+category: done
 ---
 
 Game inspired by Risk.

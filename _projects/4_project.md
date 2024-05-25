@@ -4,6 +4,6 @@ title: Arduino Power Meter
 description: 
 img: assets/img/sensor.jpeg
 importance: 4
-category: uni
+category: in progress
 ---
 Project for my Operating Systems class.
