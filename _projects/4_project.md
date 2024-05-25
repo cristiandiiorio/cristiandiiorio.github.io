@@ -1,10 +1,9 @@
 ---
 layout: page
-title: SO project
+title: Arduino Power Meter
 description: 
 img: assets/img/3.jpg
 importance: 4
 category: uni
 ---
-
-Arduino Power Meter
+Project for my Operating Systems class.
