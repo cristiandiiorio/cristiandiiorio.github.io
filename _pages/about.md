@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: blur_image.PNG
+  image: blur_image.jpg
   image_circular: false # crops the image to make it circular
   more_info: 
     <p>Summer '23<p>
