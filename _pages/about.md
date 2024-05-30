@@ -6,9 +6,9 @@ subtitle:
 
 profile:
   align: right
-  image: main_image.PNG
+  image: blur_image.PNG
   image_circular: false # crops the image to make it circular
-  more_info: >
+  more_info: 
     <p>Summer '23<p>
 
 news: false # includes a list of news items
