@@ -9,7 +9,7 @@ profile:
   image: main_image.PNG
   image_circular: false # crops the image to make it circular
   more_info: 
-    <p>In class<p>
+    <p>Summer '23<p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
