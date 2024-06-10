@@ -2,4 +2,7 @@ github_users:
   - cristiandiiorio
 
 github_repos:
+  - rizik0/rizik0-frontend
+  - rizik0/rizik0-backend
+  - cristiandiiorio/php-SQLI-pentesting
   - cristiandiiorio/temperature_check_email
