@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Arduino Power Meter
-description: 
-img: assets/img/sensor.jpeg
-importance: 4
+title: Drive clone
+description: Google Drive clone
+img: assets/img/datacenter.jpeg
+importance: 3
 category: wip
 ---
-Project for my Operating Systems class.
+Project for my Software Architectures class.
