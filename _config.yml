@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Cristian
 middle_name: 
 last_name: Di Iorio
-email: you@example.com
+email: cristiandiiorio@protonmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Cristian Di Iorio's portfolio
 footer_text: >
@@ -90,7 +90,7 @@ pinterest_id: # your pinterest id
 publons_id: # your ID on Publons
 quora_username: # your Quora username
 research_gate_profile: # your profile on ResearchGate
-scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
+scholar_userid: # your Google Scholar ID
 scopus_id: # your profile on Scopus
 semanticscholar_id: # your Semantic Scholar ID
 spotify_id: # your spotify id
