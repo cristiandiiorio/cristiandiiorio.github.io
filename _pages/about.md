@@ -16,10 +16,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hi, I am an undergraduate Computer Engineering student at La Sapienza in Rome, Italy.
+Hi, I am a student in the Master's degree in Computer Science at La Sapienza in Rome, Italy.
 I am deeply interested in computer security, containers and DevOps.
 
-This semester I'm studying Computer Security, Electronics, Complements of Operating Systems, Web Development and Software Architectures.
+This semester I'm studying Cryptography, Distributed Systems, Blockchain and Biometric Systems.
 
 In my free time I enjoy playing padel and watching football.
 

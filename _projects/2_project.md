@@ -4,7 +4,7 @@ title: PHP SQLi
 description: SQL injection testing in a PHP webpage
 img: assets/img/injection.jpg
 importance: 2
-category: done
+category: completed
 ---
 
 I have created a setup consisting of a Docker Container running PHP, one running PostgreSQL and another one running PgAdmin.
