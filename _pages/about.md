@@ -19,7 +19,7 @@ social: false # includes social icons at the bottom of the page
 Hi, I am a student in the Master's degree in Computer Science at La Sapienza in Rome, Italy.
 I am deeply interested in computer security, containers and DevOps.
 
-This semester I'm studying Cryptography, Distributed Systems, Blockchain and Biometric Systems.
+This semester I'm studying Software Security, Cryptography, Distributed Systems, Blockchain and Biometric Systems.
 
 In my free time I enjoy playing padel and watching football.
 
