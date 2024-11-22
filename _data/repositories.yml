@@ -2,7 +2,8 @@ github_users:
   - cristiandiiorio
 
 github_repos:
+  - cristiandiiorio/arduino-current-meter-thesis
+  - mon-drive/my-drive
   - rizik0/rizik0-frontend
   - rizik0/rizik0-backend
   - cristiandiiorio/php-SQLI-pentesting
-  - cristiandiiorio/arduino-power-meter
