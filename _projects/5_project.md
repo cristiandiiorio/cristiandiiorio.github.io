@@ -4,7 +4,7 @@ title: Bachelor's Thesis
 description: Thesis on current sensor
 img: assets/img/cap.png
 importance: 5
-category: done
+category: completed
 ---
 C interrupt-driven program that interfaces with Dockerized receiver to read data coming
 from an Hall effect current sensor connected to the Arduino board.
