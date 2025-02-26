@@ -12,7 +12,7 @@ profile:
     <p>Graduation Day<p>
 
 news: false # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
@@ -22,4 +22,3 @@ I am deeply interested in computer security, containers and DevOps.
 This semester I'm studying Advanced Architectures, Cloud Computing, Concurrent Systems, Data and Network Security and Practical Network Defense.
 
 In my free time I enjoy playing padel and watching football.
-
