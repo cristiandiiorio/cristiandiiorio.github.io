@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Cristian
 middle_name: 
 last_name: Di Iorio
-email: cristiandiiorio@protonmail.com
+email: io@cristiandiiorio.it
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Cristian Di Iorio's portfolio
 footer_text: >
@@ -76,7 +76,7 @@ flickr_id: # your flickr id
 github_username: cristiandiiorio
 gitlab_username: # your GitLab user name
 ieee_id: # your ieeexplore.ieee.org/author/id
-instagram_id: cristiandiiorioo
+instagram_id: #insta
 kaggle_id: # your kaggle id
 keybase_username: # your keybase user name
 lastfm_id: # your lastfm id
