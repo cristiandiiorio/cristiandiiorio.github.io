@@ -1,48 +1,12 @@
 ---
 layout: page
-title: Rizik0
-description: Risk-like game
-img: assets/img/rizik0.png
-importance: 1
+title: Automated detection of security sensitive UI elements
+description: Automated detection of security sensitive UI elements for Clickshield
+img: assets/img/dns-report-image.png
+importance: 2
 category: completed
 ---
 
-Game inspired by Risk.
-Written in React, Python Flask and SQLite.
+Designed a three-stage pipeline to automatically identify and tag security-sensitive UI widgets for Clickshield. Proposed using UI-CTX for static code analysis to construct UI Handler Graphs, applying a Graph Neural Network for binary classification at the graph level, and defining automatic code-level annotations (e.g., custom XML attributes) to drive runtime overlay protection.
 
-You can see it for yourself here: [rizik0](https://www.rizik0.ovh)
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/screen2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-
-<div class="caption">
-    Stats page
-</div>
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/screen1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/screen3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-
-<div class="caption">
-    Log in and pregame lobby
-</div>
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/screen4.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-
-<div class="caption">
-    Game page
-</div>
-
-
+Here is the full [proposal]({{ "/assets/pdf/dns-report.pdf" | relative_url }}){:target="_blank"}.

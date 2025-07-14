@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Arduino Current Meter
-description: 
-img: assets/img/sensor.jpeg
-importance: 3
+title: Bachelor's Thesis
+description: Thesis on current sensor
+img: assets/img/cap.png
+importance: 5
 category: completed
 ---
-An arduino program, written without Arduino IDE using AVR.
-It measures the current that is flowing through an hall effect sensor connected to an analog pin.
+C interrupt-driven program that interfaces with Dockerized receiver to read data coming
+from an Hall effect current sensor connected to the Arduino board.
 
-The full code is on GitHub: [arduino current meter](https://github.com/cristiandiiorio/arduino-power-meter)
+Code for this project: [Thesis](https://github.com/cristiandiiorio/arduino-current-meter-thesis)
