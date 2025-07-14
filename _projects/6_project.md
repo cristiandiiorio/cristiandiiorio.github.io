@@ -3,7 +3,7 @@ layout: page
 title: PHP SQLi
 description: SQL injection testing in a PHP webpage
 img: assets/img/injection.jpg
-importance: 2
+importance: 6
 category: completed
 ---
 

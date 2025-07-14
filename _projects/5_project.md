@@ -3,7 +3,7 @@ layout: page
 title: Rizik0
 description: Risk-like game
 img: assets/img/rizik0.png
-importance: 1
+importance: 5
 category: completed
 ---
 
