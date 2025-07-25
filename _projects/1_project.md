@@ -3,7 +3,7 @@ layout: page
 title: Automated detection of security sensitive UI elements
 description: Automated detection of security sensitive UI elements for Clickshield
 img: assets/img/dns-report-image.png
-importance: 1
+importance: 2
 category: completed
 ---
 
