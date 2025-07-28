@@ -57,7 +57,7 @@
           </li>
           <!-- Other pages -->
           <div class="nav-item">
-            <a href="assets/pdf/resume.pdf" class="nav-link">cv</a>
+            <a href="{{ '/assets/pdf/resume.pdf' | relative_url }}" class="nav-link">cv</a>
           </div>
 
           {% assign sorted_pages = site.pages | sort: 'nav_order' %}
