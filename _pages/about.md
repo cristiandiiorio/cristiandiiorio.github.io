@@ -19,6 +19,6 @@ social: false # includes social icons at the bottom of the page
 Hi, I am a student in the Master's degree in Computer Science at La Sapienza in Rome, Italy.
 I am deeply interested in computer security, containers and DevOps.
 
-This semester I'm studying Advanced Architectures, Cloud Computing, Concurrent Systems, Data and Network Security and Practical Network Defense.
+This semester I'm studying Malware Analysis, Foundations of Data Science, Big Data Computing and Computer Vision.
 
-In my free time I enjoy playing padel and watching football.
+In my free time I enjoy playing tennis and watching football.
