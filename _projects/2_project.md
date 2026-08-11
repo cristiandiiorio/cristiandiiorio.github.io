@@ -8,4 +8,4 @@ category: completed
 ---
 Keystroke dynamics recognition using Mahalanobis distance, Gaussian Mixture Model and Gunetti Picardi method. Comparison of techniques. [GitHub repository](https://github.com/mon-drive/keystroke-recognition)
 
-Cited 1 time ([Google Scholar](https://scholar.google.com/citations?user=GB-r3a4AAAAJ), as of March 2026). h-index: 1
+Cited 3 times ([Google Scholar](https://scholar.google.com/citations?user=GB-r3a4AAAAJ), as of August 2026). h-index: 1
