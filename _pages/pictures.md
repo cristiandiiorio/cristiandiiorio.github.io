@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Photography
+title: photography
 permalink: /photography/
 nav: true
 nav_order: 5
